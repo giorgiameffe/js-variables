@@ -14,8 +14,8 @@ const numThreeTimesNumTwo = 512;
 console.log(numThree * numTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
-const numThreeDividedByNumOne = NaN;
-console.log(numThreeDividedByNumOne); // Output: 4
+const numThreeDividedByNumOne = 4;
+console.log(numThree / numOne); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const numThreeMinusNumOne = NaN;
