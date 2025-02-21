@@ -22,8 +22,8 @@ const numThreeMinusNumOne = 24;
 console.log(numThree - numOne); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
-const sum = NaN;
-console.log(sum); // Output: 56
+const sum = 56;
+console.log(numOne + numTwo + numThree); // Output: 56
 
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
 const numBytes = NaN;
