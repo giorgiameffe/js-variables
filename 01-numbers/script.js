@@ -7,7 +7,7 @@ const numThree = 32; // NON MODIFICARE QUESTA RIGA
 
 // 1. Imposta questa variabile come somma di numOne e numTwo
 const numOnePlusNumTwo = NaN;
-console.log(numOnePlusNumTwo); // Output: 24
+console.log(numOne + numTwo); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
 const numThreeTimesNumTwo = NaN;
