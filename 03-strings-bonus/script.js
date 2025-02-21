@@ -31,5 +31,5 @@ console.log(
 
 // 5. Tutto in maiscolo
 // Trasforma tutto in maiscuolo la stringa della variabile hello
-const upperCaseHello = '';
-console.log(upperCaseHello); // Output: "HELLO"
+const upperCaseHello = 'HELLO';
+console.log(hello.toUpperCase()); // Output: "HELLO"
